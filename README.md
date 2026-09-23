@@ -9,3 +9,6 @@ You may use any sorting algorithm that you would like. Selection sort from CISC 
 
 Feel free to write a main function to test your functions. However, please comment out
 your main function before submitting your code.
+
+If you type make test at the terminal after you remove your main, you will see exactly the results of the unit tests run by
+the autograder.
